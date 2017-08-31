@@ -6,7 +6,7 @@
 #6e70e3b1bf171ae14505f4f8b0dc4e5a####-->
 ####################################->
 #https://www.youtube.com/watch?v=Aps4ZczffVw#
-#Allahu Akbar!#
+#NO SYSTEM IS SAFE!#
 
 
 import urllib2
