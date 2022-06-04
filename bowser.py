@@ -8,7 +8,6 @@ import sys
 import random
 import math
 import getopt
-import socks
 import string
 import terminal
 
