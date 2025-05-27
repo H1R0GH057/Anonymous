@@ -1,0 +1,99 @@
+/* General Body Styles */
+body {
+    font-family: sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    padding: 0 20px;
+}
+
+/* Header Styles */
+header {
+    background: #333;
+    color: #fff;
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: #0779e4 3px solid;
+}
+
+header h1 {
+    text-align: center;
+    margin: 0;
+    font-size: 24px;
+    text-transform: uppercase;
+}
+
+/* Navigation Styles */
+nav {
+    margin-top: 10px;
+    text-align: center; /* Center nav for index page */
+}
+
+nav ul {
+    padding: 0;
+    list-style: none;
+}
+
+nav ul li {
+    display: inline; /* For horizontal menu on index page */
+    margin: 0 15px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+nav a:hover {
+    color: #0779e4;
+    font-weight: bold;
+}
+
+/* Styles for navigation within section pages (if different) */
+/* Assuming section pages might have a simpler nav, e.g., just a 'Home' link */
+/* Header nav in section pages might be simpler, adjust if needed */
+/* For now, the general 'nav a' styles will apply. */
+/* If section page nav is within the header, it will inherit header background */
+
+
+/* Main Content Styles */
+main {
+    padding: 20px 0;
+}
+
+main .container { /* To center content within main */
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+
+article {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px #ccc dotted;
+}
+
+article h2 {
+    color: #333;
+}
+
+/* Footer Styles */
+footer {
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+    color: #fff;
+    background-color: #333;
+}
+
+/* Utility classes (if any planned, e.g., for buttons, can be added later) */
