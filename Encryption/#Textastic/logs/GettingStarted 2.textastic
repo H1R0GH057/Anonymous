@@ -1,0 +1,38 @@
+# Getting started with Textastic #
+
+Go to the list of files and tap the (?) button to open the online manual.
+
+# How can I open my files in Textastic? #
+
+Textastic supports several ways to import your files:
+
+* Remote file transfer using the built-in FTP(S), SFTP, WebDAV and Dropbox clients
+* iCloud Drive
+* Tapping the "+" button and choosing "Import"
+* Adding folders from the Files app as external folders
+* By using "Open In" in other apps
+* Over Wi-Fi with the built-in WebDAV server
+
+# What are the main features of Textastic? #
+
+* Syntax highlighting for many languages:  
+  HTML, XML, Objective-C, C++, C#, PHP, SQL, JavaScript, CSS, shell scripts and a lot more
+* Code completion for HTML, CSS and PHP functions
+* Opening multiple files in tabs
+* SSH terminal connections
+* Find and replace including regular expression search
+* Find in multiple files
+* Full external keyboard and mouse/trackpad support
+* Symbol list to quickly navigate in a file
+* Adds a row of additional keys above the virtual keyboard to make it easy to type characters often used for programming
+* Cursor can be moved using swipe gestures
+* Different encodings like UTF-8, ISO-8859-1 or MacRoman
+* Supports different tab widths and soft tabs (spaces instead of tabs)
+* Different fonts, font sizes and themes
+* Web preview for HTML and Markdown files
+* Mail HTML and Markdown files
+* Split View and Slide Over multitasking on iPad
+* Git repositories from the Git client app Working Copy can be opened as external folders in Textastic
+* Emmet support
+* JavaScript console
+* Dark Mode

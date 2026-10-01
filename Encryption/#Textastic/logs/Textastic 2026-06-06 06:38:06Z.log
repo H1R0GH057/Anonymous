@@ -1,0 +1,233 @@
+20260606 14:38:06.874 ====== App Launched =======
+20260606 14:38:06.954 Loading external directories
+20260606 14:38:06.956 ubiquityIdentityToken fetched in 0.002014s, token: {length = 20, bytes = 0xff9b4a7b7794b482942643dd717e5a5611257f8f}
+20260606 14:38:07.080 ❌ ABTextasticDocument handleError: Error Domain=NSCocoaErrorDomain Code=260 "The file “install-zed.md.txt” couldn’t be opened because there is no such file." UserInfo={NSUnderlyingError=0x115aeb600 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory" UserInfo={NSLocalizedDescription=The operation couldn’t be completed. No such file or directory}}, NSURL=file:///private/var/mobile/Containers/Shared/AppGroup/C54D239B-3ED2-4852-AE7B-4570B4E04923/File%20Provider%20Storage/Repositories/install-zed.md.txt, NSFilePath=/private/var/mobile/Containers/Shared/AppGroup/C54D239B-3ED2-4852-AE7B-4570B4E04923/File Provider Storage/Repositories/install-zed.md.txt, NSLocalizedDescription=The file “install-zed.md.txt” couldn’t be opened because there is no such file.} userInteractionPermitted:1
+20260606 14:38:07.222 Requesting App Store products
+20260606 14:38:07.286 loaded file GettingStarted.textastic with encoding: Unicode (UTF-8) and line endings: LF (macOS, Unix)
+20260606 14:38:07.298 ❌ Error getting type identifier: Error Domain=NSCocoaErrorDomain Code=260 "The file “install-zed.md.txt” couldn’t be opened because there is no such file." UserInfo={NSURL=file:///private/var/mobile/Containers/Shared/AppGroup/C54D239B-3ED2-4852-AE7B-4570B4E04923/File%20Provider%20Storage/Repositories/install-zed.md.txt, NSFilePath=/private/var/mobile/Containers/Shared/AppGroup/C54D239B-3ED2-4852-AE7B-4570B4E04923/File Provider Storage/Repositories/install-zed.md.txt, NSUnderlyingError=0x1271f0cc0 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+20260606 14:38:07.343 ❌ Error getting type identifier: Error Domain=NSCocoaErrorDomain Code=260 "The file “install-zed.md.txt” couldn’t be opened because there is no such file." UserInfo={NSURL=file:///private/var/mobile/Containers/Shared/AppGroup/C54D239B-3ED2-4852-AE7B-4570B4E04923/File%20Provider%20Storage/Repositories/install-zed.md.txt, NSFilePath=/private/var/mobile/Containers/Shared/AppGroup/C54D239B-3ED2-4852-AE7B-4570B4E04923/File Provider Storage/Repositories/install-zed.md.txt, NSUnderlyingError=0x1271f3210 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+20260606 14:38:07.770 Local authentication successful!
+20260606 14:38:08.328 Retrieved 3 product(s)
+20260606 14:38:08.328 Updating purchased products
+20260606 14:38:08.334 Eligible for free trial: 1
+20260606 14:38:08.350 Verified transactions: 1, unverified: 0
+20260606 14:38:08.350 Pro purchased, oneTime: 0 (family-shared: 0), yearly: 0 (family-shared: 0), monthly: 1 (family-shared: 0), trial: 1
+20260606 14:38:09.056 presentedItemDidMoveToURL was called for file "GettingStarted.textastic" stored in Local Files although it wasn't moved, ignoring (FB7547846)
+20260606 14:38:33.743 document picker was cancelled
+20260606 14:38:37.914 ❌ Error getting type identifier: Error Domain=NSCocoaErrorDomain Code=260 "The file “install-zed.md.txt” couldn’t be opened because there is no such file." UserInfo={NSURL=file:///private/var/mobile/Containers/Shared/AppGroup/C54D239B-3ED2-4852-AE7B-4570B4E04923/File%20Provider%20Storage/Repositories/install-zed.md.txt, NSFilePath=/private/var/mobile/Containers/Shared/AppGroup/C54D239B-3ED2-4852-AE7B-4570B4E04923/File Provider Storage/Repositories/install-zed.md.txt, NSUnderlyingError=0x1280e6610 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+20260606 14:38:52.008 Updating purchased products
+20260606 14:38:52.020 Eligible for free trial: 1
+20260606 14:38:52.020 Verified transactions: 1, unverified: 0
+20260606 14:38:52.020 Pro purchased, oneTime: 0 (family-shared: 0), yearly: 0 (family-shared: 0), monthly: 1 (family-shared: 0), trial: 1
+20260606 14:38:52.437 presentedItemDidMoveToURL was called for file "GettingStarted.textastic" stored in Local Files although it wasn't moved, ignoring (FB7547846)
+20260606 14:38:52.465 ❌ Error getting type identifier: Error Domain=NSCocoaErrorDomain Code=260 "The file “install-zed.md.txt” couldn’t be opened because there is no such file." UserInfo={NSURL=file:///private/var/mobile/Containers/Shared/AppGroup/C54D239B-3ED2-4852-AE7B-4570B4E04923/File%20Provider%20Storage/Repositories/install-zed.md.txt, NSFilePath=/private/var/mobile/Containers/Shared/AppGroup/C54D239B-3ED2-4852-AE7B-4570B4E04923/File Provider Storage/Repositories/install-zed.md.txt, NSUnderlyingError=0x10872a070 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+20260606 14:38:52.894 Local authentication successful!
+20260606 14:38:54.190 presentedItemDidMoveToURL was called for file "GettingStarted.textastic" stored in Local Files although it wasn't moved, ignoring (FB7547846)
+20260606 14:38:55.221 ❌ Error getting type identifier: Error Domain=NSCocoaErrorDomain Code=260 "The file “install-zed.md.txt” couldn’t be opened because there is no such file." UserInfo={NSURL=file:///private/var/mobile/Containers/Shared/AppGroup/C54D239B-3ED2-4852-AE7B-4570B4E04923/File%20Provider%20Storage/Repositories/install-zed.md.txt, NSFilePath=/private/var/mobile/Containers/Shared/AppGroup/C54D239B-3ED2-4852-AE7B-4570B4E04923/File Provider Storage/Repositories/install-zed.md.txt, NSUnderlyingError=0x108738ab0 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+20260606 14:39:01.394 Updating purchased products
+20260606 14:39:01.404 Eligible for free trial: 1
+20260606 14:39:01.407 Verified transactions: 1, unverified: 0
+20260606 14:39:01.407 Pro purchased, oneTime: 0 (family-shared: 0), yearly: 0 (family-shared: 0), monthly: 1 (family-shared: 0), trial: 1
+20260606 14:39:01.831 presentedItemDidMoveToURL was called for file "GettingStarted.textastic" stored in Local Files although it wasn't moved, ignoring (FB7547846)
+20260606 14:39:01.862 ❌ Error getting type identifier: Error Domain=NSCocoaErrorDomain Code=260 "The file “install-zed.md.txt” couldn’t be opened because there is no such file." UserInfo={NSURL=file:///private/var/mobile/Containers/Shared/AppGroup/C54D239B-3ED2-4852-AE7B-4570B4E04923/File%20Provider%20Storage/Repositories/install-zed.md.txt, NSFilePath=/private/var/mobile/Containers/Shared/AppGroup/C54D239B-3ED2-4852-AE7B-4570B4E04923/File Provider Storage/Repositories/install-zed.md.txt, NSUnderlyingError=0x126cefc60 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+20260606 14:39:02.319 Local authentication successful!
+20260606 14:39:03.607 presentedItemDidMoveToURL was called for file "GettingStarted.textastic" stored in Local Files although it wasn't moved, ignoring (FB7547846)
+20260606 14:39:10.947 Found Wi-Fi interface: en0, ip address: 192.168.0.16
+20260606 14:39:26.749 Trying to notify file provider of document access, file name: GettingStarted.textastic
+20260606 14:39:26.804 Finished notifying file provider, success: 0
+20260606 14:39:36.960 ❌ Error getting type identifier: Error Domain=NSCocoaErrorDomain Code=260 "The file “install-zed.md.txt” couldn’t be opened because there is no such file." UserInfo={NSURL=file:///private/var/mobile/Containers/Shared/AppGroup/C54D239B-3ED2-4852-AE7B-4570B4E04923/File%20Provider%20Storage/Repositories/install-zed.md.txt, NSFilePath=/private/var/mobile/Containers/Shared/AppGroup/C54D239B-3ED2-4852-AE7B-4570B4E04923/File Provider Storage/Repositories/install-zed.md.txt, NSUnderlyingError=0x1159bcc60 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+20260606 14:39:52.850 Updating purchased products
+20260606 14:39:52.858 Eligible for free trial: 1
+20260606 14:39:52.859 Verified transactions: 1, unverified: 0
+20260606 14:39:52.859 Pro purchased, oneTime: 0 (family-shared: 0), yearly: 0 (family-shared: 0), monthly: 1 (family-shared: 0), trial: 1
+20260606 14:39:53.292 presentedItemDidMoveToURL was called for file "GettingStarted.textastic" stored in Local Files although it wasn't moved, ignoring (FB7547846)
+20260606 14:39:53.325 ❌ Error getting type identifier: Error Domain=NSCocoaErrorDomain Code=260 "The file “install-zed.md.txt” couldn’t be opened because there is no such file." UserInfo={NSURL=file:///private/var/mobile/Containers/Shared/AppGroup/C54D239B-3ED2-4852-AE7B-4570B4E04923/File%20Provider%20Storage/Repositories/install-zed.md.txt, NSFilePath=/private/var/mobile/Containers/Shared/AppGroup/C54D239B-3ED2-4852-AE7B-4570B4E04923/File Provider Storage/Repositories/install-zed.md.txt, NSUnderlyingError=0x1086fb540 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+20260606 14:39:53.761 Local authentication successful!
+20260606 14:39:55.044 presentedItemDidMoveToURL was called for file "GettingStarted.textastic" stored in Local Files although it wasn't moved, ignoring (FB7547846)
+20260606 14:42:08.390 Trying to notify file provider of document access, file name: GettingStarted.textastic
+20260606 14:42:08.451 Finished notifying file provider, success: 0
+20260606 14:42:12.255 ❌ Error getting type identifier: Error Domain=NSCocoaErrorDomain Code=260 "The file “install-zed.md.txt” couldn’t be opened because there is no such file." UserInfo={NSURL=file:///private/var/mobile/Containers/Shared/AppGroup/C54D239B-3ED2-4852-AE7B-4570B4E04923/File%20Provider%20Storage/Repositories/install-zed.md.txt, NSFilePath=/private/var/mobile/Containers/Shared/AppGroup/C54D239B-3ED2-4852-AE7B-4570B4E04923/File Provider Storage/Repositories/install-zed.md.txt, NSUnderlyingError=0x129be8c90 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+20260607 02:12:08.353 ====== App Launched =======
+20260607 02:12:08.445 Loading external directories
+20260607 02:12:08.445 Found 3 external directories
+20260607 02:12:08.445 Trying to resolve external directory Encryption with uuid 5C8631AA-C86F-457A-9779-F1311ACE7089
+20260607 02:12:08.447 ubiquityIdentityToken fetched in 0.002590s, token: {length = 20, bytes = 0xff9b4a7b7794b482942643dd717e5a5611257f8f}
+20260607 02:12:08.448 Successfully resolved external directory 5C8631AA-C86F-457A-9779-F1311ACE7089
+20260607 02:12:08.448 Trying to resolve external directory Documents with uuid 77BABE38-83DE-4B53-BA06-44AAE6EB5972
+20260607 02:12:08.450 Successfully resolved external directory 77BABE38-83DE-4B53-BA06-44AAE6EB5972
+20260607 02:12:08.450 Trying to resolve external directory B309A2DF-6E4E-4438-A635-D831CCB4D12B with uuid 859C7259-66C8-4813-8C2E-220FAE923202
+20260607 02:12:08.452 Successfully resolved external directory 859C7259-66C8-4813-8C2E-220FAE923202
+20260607 02:12:08.663 Requesting App Store products
+20260607 02:12:08.663 Finished loading external directories
+20260607 02:12:08.780 loaded file GettingStarted.textastic with encoding: Unicode (UTF-8) and line endings: LF (macOS, Unix)
+20260607 02:12:08.805 ❌ Error getting type identifier: Error Domain=NSCocoaErrorDomain Code=260 "The file “install-zed.md.txt” couldn’t be opened because there is no such file." UserInfo={NSURL=file:///private/var/mobile/Containers/Shared/AppGroup/C54D239B-3ED2-4852-AE7B-4570B4E04923/File%20Provider%20Storage/Repositories/install-zed.md.txt, NSFilePath=/private/var/mobile/Containers/Shared/AppGroup/C54D239B-3ED2-4852-AE7B-4570B4E04923/File Provider Storage/Repositories/install-zed.md.txt, NSUnderlyingError=0x10670adf0 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+20260607 02:12:08.856 ❌ Error getting type identifier: Error Domain=NSCocoaErrorDomain Code=260 "The file “install-zed.md.txt” couldn’t be opened because there is no such file." UserInfo={NSURL=file:///private/var/mobile/Containers/Shared/AppGroup/C54D239B-3ED2-4852-AE7B-4570B4E04923/File%20Provider%20Storage/Repositories/install-zed.md.txt, NSFilePath=/private/var/mobile/Containers/Shared/AppGroup/C54D239B-3ED2-4852-AE7B-4570B4E04923/File Provider Storage/Repositories/install-zed.md.txt, NSUnderlyingError=0x124456280 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+20260607 02:12:09.347 Retrieved 3 product(s)
+20260607 02:12:09.347 Updating purchased products
+20260607 02:12:09.352 Eligible for free trial: 1
+20260607 02:12:09.366 Verified transactions: 1, unverified: 0
+20260607 02:12:09.366 Pro purchased, oneTime: 0 (family-shared: 0), yearly: 0 (family-shared: 0), monthly: 1 (family-shared: 0), trial: 1
+20260607 02:12:09.470 Local authentication successful!
+20260607 02:12:09.877 loaded file sourcefiles.app.html with encoding: Unicode (UTF-8) and line endings: LF (macOS, Unix)
+20260607 02:12:09.881 ❌ Error getting type identifier: Error Domain=NSCocoaErrorDomain Code=260 "The file “install-zed.md.txt” couldn’t be opened because there is no such file." UserInfo={NSURL=file:///private/var/mobile/Containers/Shared/AppGroup/C54D239B-3ED2-4852-AE7B-4570B4E04923/File%20Provider%20Storage/Repositories/install-zed.md.txt, NSFilePath=/private/var/mobile/Containers/Shared/AppGroup/C54D239B-3ED2-4852-AE7B-4570B4E04923/File Provider Storage/Repositories/install-zed.md.txt, NSUnderlyingError=0x124638f00 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+20260607 02:12:10.753 presentedItemDidMoveToURL was called for file "GettingStarted.textastic" stored in Local Files although it wasn't moved, ignoring (FB7547846)
+20260607 02:12:26.556 FTP configuration was changed -> closing all connections
+20260607 02:12:32.516 ❌ Error getting type identifier: Error Domain=NSCocoaErrorDomain Code=260 "The file “install-zed.md.txt” couldn’t be opened because there is no such file." UserInfo={NSURL=file:///private/var/mobile/Containers/Shared/AppGroup/C54D239B-3ED2-4852-AE7B-4570B4E04923/File%20Provider%20Storage/Repositories/install-zed.md.txt, NSFilePath=/private/var/mobile/Containers/Shared/AppGroup/C54D239B-3ED2-4852-AE7B-4570B4E04923/File Provider Storage/Repositories/install-zed.md.txt, NSUnderlyingError=0x12acc06c0 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+20260607 02:12:33.297 beginning background task to keep SSH connection alive
+20260607 02:12:41.748 Updating purchased products
+20260607 02:12:41.755 Eligible for free trial: 1
+20260607 02:12:41.762 Verified transactions: 1, unverified: 0
+20260607 02:12:41.762 Pro purchased, oneTime: 0 (family-shared: 0), yearly: 0 (family-shared: 0), monthly: 1 (family-shared: 0), trial: 1
+20260607 02:12:42.193 presentedItemDidMoveToURL was called for file "GettingStarted.textastic" stored in Local Files although it wasn't moved, ignoring (FB7547846)
+20260607 02:12:42.289 ❌ Error getting type identifier: Error Domain=NSCocoaErrorDomain Code=260 "The file “install-zed.md.txt” couldn’t be opened because there is no such file." UserInfo={NSURL=file:///private/var/mobile/Containers/Shared/AppGroup/C54D239B-3ED2-4852-AE7B-4570B4E04923/File%20Provider%20Storage/Repositories/install-zed.md.txt, NSFilePath=/private/var/mobile/Containers/Shared/AppGroup/C54D239B-3ED2-4852-AE7B-4570B4E04923/File Provider Storage/Repositories/install-zed.md.txt, NSUnderlyingError=0x10644f390 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+20260607 02:12:42.706 Local authentication successful!
+20260607 02:12:43.151 loaded file ftpfiles.app.html with encoding: Unicode (UTF-8) and line endings: LF (macOS, Unix)
+20260607 02:12:43.155 ❌ Error getting type identifier: Error Domain=NSCocoaErrorDomain Code=260 "The file “install-zed.md.txt” couldn’t be opened because there is no such file." UserInfo={NSURL=file:///private/var/mobile/Containers/Shared/AppGroup/C54D239B-3ED2-4852-AE7B-4570B4E04923/File%20Provider%20Storage/Repositories/install-zed.md.txt, NSFilePath=/private/var/mobile/Containers/Shared/AppGroup/C54D239B-3ED2-4852-AE7B-4570B4E04923/File Provider Storage/Repositories/install-zed.md.txt, NSUnderlyingError=0x12acaa340 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+20260607 02:12:44.009 presentedItemDidMoveToURL was called for file "GettingStarted.textastic" stored in Local Files although it wasn't moved, ignoring (FB7547846)
+20260607 02:13:25.088 Trying to notify file provider of document access, file name: ftpfiles.app.html
+20260607 02:13:25.141 Finished notifying file provider, success: 0
+20260607 02:13:42.068 Found Wi-Fi interface: en0, ip address: 192.168.0.16
+20260607 02:15:44.058 loaded file markdown.css with encoding: Unicode (UTF-8) and line endings: LF (macOS, Unix)
+20260607 02:15:44.063 ❌ Error getting type identifier: Error Domain=NSCocoaErrorDomain Code=260 "The file “install-zed.md.txt” couldn’t be opened because there is no such file." UserInfo={NSURL=file:///private/var/mobile/Containers/Shared/AppGroup/C54D239B-3ED2-4852-AE7B-4570B4E04923/File%20Provider%20Storage/Repositories/install-zed.md.txt, NSFilePath=/private/var/mobile/Containers/Shared/AppGroup/C54D239B-3ED2-4852-AE7B-4570B4E04923/File Provider Storage/Repositories/install-zed.md.txt, NSUnderlyingError=0x12ac87a50 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+20260607 02:15:53.176 ❌ Error getting type identifier: Error Domain=NSCocoaErrorDomain Code=260 "The file “install-zed.md.txt” couldn’t be opened because there is no such file." UserInfo={NSURL=file:///private/var/mobile/Containers/Shared/AppGroup/C54D239B-3ED2-4852-AE7B-4570B4E04923/File%20Provider%20Storage/Repositories/install-zed.md.txt, NSFilePath=/private/var/mobile/Containers/Shared/AppGroup/C54D239B-3ED2-4852-AE7B-4570B4E04923/File Provider Storage/Repositories/install-zed.md.txt, NSUnderlyingError=0x12545adc0 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+20260607 02:15:53.947 beginning background task to keep SSH connection alive
+20260607 02:15:55.346 Updating purchased products
+20260607 02:15:55.353 Eligible for free trial: 1
+20260607 02:15:55.359 Verified transactions: 1, unverified: 0
+20260607 02:15:55.359 Pro purchased, oneTime: 0 (family-shared: 0), yearly: 0 (family-shared: 0), monthly: 1 (family-shared: 0), trial: 1
+20260607 02:15:55.796 presentedItemDidMoveToURL was called for file "GettingStarted.textastic" stored in Local Files although it wasn't moved, ignoring (FB7547846)
+20260607 02:15:55.798 presentedItemDidMoveToURL was called for file "#Textastic/markdown.css" stored in Local Files although it wasn't moved, ignoring (FB7547846)
+20260607 02:15:55.843 ❌ Error getting type identifier: Error Domain=NSCocoaErrorDomain Code=260 "The file “install-zed.md.txt” couldn’t be opened because there is no such file." UserInfo={NSURL=file:///private/var/mobile/Containers/Shared/AppGroup/C54D239B-3ED2-4852-AE7B-4570B4E04923/File%20Provider%20Storage/Repositories/install-zed.md.txt, NSFilePath=/private/var/mobile/Containers/Shared/AppGroup/C54D239B-3ED2-4852-AE7B-4570B4E04923/File Provider Storage/Repositories/install-zed.md.txt, NSUnderlyingError=0x1272e2bb0 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+20260607 02:15:56.281 Local authentication successful!
+20260607 02:15:56.650 Trying to notify file provider of document access, file name: ftpfiles.app.html
+20260607 02:15:56.696 Finished notifying file provider, success: 0
+20260607 02:15:57.579 presentedItemDidMoveToURL was called for file "GettingStarted.textastic" stored in Local Files although it wasn't moved, ignoring (FB7547846)
+20260607 02:15:57.585 presentedItemDidMoveToURL was called for file "#Textastic/markdown.css" stored in Local Files although it wasn't moved, ignoring (FB7547846)
+20260607 02:16:03.410 Trying to notify file provider of document access, file name: markdown.css
+20260607 02:16:03.441 Finished notifying file provider, success: 0
+20260607 02:16:17.679 FTP configuration was changed -> closing all connections
+20260607 02:16:21.691 ❌ Error getting type identifier: Error Domain=NSCocoaErrorDomain Code=260 "The file “install-zed.md.txt” couldn’t be opened because there is no such file." UserInfo={NSURL=file:///private/var/mobile/Containers/Shared/AppGroup/C54D239B-3ED2-4852-AE7B-4570B4E04923/File%20Provider%20Storage/Repositories/install-zed.md.txt, NSFilePath=/private/var/mobile/Containers/Shared/AppGroup/C54D239B-3ED2-4852-AE7B-4570B4E04923/File Provider Storage/Repositories/install-zed.md.txt, NSUnderlyingError=0x12aca8ab0 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+20260607 02:16:22.462 beginning background task to keep SSH connection alive
+20260607 02:16:25.675 Updating purchased products
+20260607 02:16:25.688 Eligible for free trial: 1
+20260607 02:16:25.688 Verified transactions: 1, unverified: 0
+20260607 02:16:25.688 Pro purchased, oneTime: 0 (family-shared: 0), yearly: 0 (family-shared: 0), monthly: 1 (family-shared: 0), trial: 1
+20260607 02:16:25.947 presentedItemDidMoveToURL was called for file "#Textastic/markdown.css" stored in Local Files although it wasn't moved, ignoring (FB7547846)
+20260607 02:16:25.950 presentedItemDidMoveToURL was called for file "GettingStarted.textastic" stored in Local Files although it wasn't moved, ignoring (FB7547846)
+20260607 02:16:25.984 ❌ Error getting type identifier: Error Domain=NSCocoaErrorDomain Code=260 "The file “install-zed.md.txt” couldn’t be opened because there is no such file." UserInfo={NSURL=file:///private/var/mobile/Containers/Shared/AppGroup/C54D239B-3ED2-4852-AE7B-4570B4E04923/File%20Provider%20Storage/Repositories/install-zed.md.txt, NSFilePath=/private/var/mobile/Containers/Shared/AppGroup/C54D239B-3ED2-4852-AE7B-4570B4E04923/File Provider Storage/Repositories/install-zed.md.txt, NSUnderlyingError=0x12544e940 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+20260607 02:16:26.428 Local authentication successful!
+20260607 02:16:27.713 presentedItemDidMoveToURL was called for file "GettingStarted.textastic" stored in Local Files although it wasn't moved, ignoring (FB7547846)
+20260607 02:16:27.713 presentedItemDidMoveToURL was called for file "#Textastic/markdown.css" stored in Local Files although it wasn't moved, ignoring (FB7547846)
+20260607 02:16:48.288 loaded file markdown_head.html with encoding: Unicode (UTF-8) and line endings: LF (macOS, Unix)
+20260607 02:17:24.803 ❌ ABTextasticDocument handleError: Error Domain=NSCocoaErrorDomain Code=260 "The file “install-zed.md.txt” couldn’t be opened because there is no such file." UserInfo={NSUnderlyingError=0x1519b5dd0 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory" UserInfo={NSLocalizedDescription=The operation couldn’t be completed. No such file or directory}}, NSURL=file:///private/var/mobile/Containers/Shared/AppGroup/C54D239B-3ED2-4852-AE7B-4570B4E04923/File%20Provider%20Storage/Repositories/install-zed.md.txt, NSFilePath=/private/var/mobile/Containers/Shared/AppGroup/C54D239B-3ED2-4852-AE7B-4570B4E04923/File Provider Storage/Repositories/install-zed.md.txt, NSLocalizedDescription=The file “install-zed.md.txt” couldn’t be opened because there is no such file.} userInteractionPermitted:1
+20260607 02:17:28.562 Trying to notify file provider of document access, file name: GettingStarted.textastic
+20260607 02:17:28.623 Finished notifying file provider, success: 0
+20260607 02:17:40.485 Trying to notify file provider of document access, file name: sourcefiles.app.html
+20260607 02:17:40.542 Finished notifying file provider, success: 0
+20260607 02:17:57.431 Trying to notify file provider of document access, file name: ftpfiles.app.html
+20260607 02:17:57.489 Finished notifying file provider, success: 0
+20260607 02:18:12.626 Trying to notify file provider of document access, file name: markdown.css
+20260607 02:18:12.685 Finished notifying file provider, success: 0
+20260607 02:18:40.873 beginning background task to keep SSH connection alive
+20260607 02:19:06.402 ending background task
+20260607 02:19:32.868 Updating purchased products
+20260607 02:19:32.873 Eligible for free trial: 1
+20260607 02:19:32.889 Verified transactions: 1, unverified: 0
+20260607 02:19:32.889 Pro purchased, oneTime: 0 (family-shared: 0), yearly: 0 (family-shared: 0), monthly: 1 (family-shared: 0), trial: 1
+20260607 02:19:33.163 presentedItemDidMoveToURL was called for file "GettingStarted.textastic" stored in Local Files although it wasn't moved, ignoring (FB7547846)
+20260607 02:19:33.169 presentedItemDidMoveToURL was called for file "#Textastic/markdown_head.html" stored in Local Files although it wasn't moved, ignoring (FB7547846)
+20260607 02:19:33.172 presentedItemDidMoveToURL was called for file "#Textastic/markdown.css" stored in Local Files although it wasn't moved, ignoring (FB7547846)
+20260607 02:19:33.636 Local authentication successful!
+20260607 02:19:34.926 presentedItemDidMoveToURL was called for file "GettingStarted.textastic" stored in Local Files although it wasn't moved, ignoring (FB7547846)
+20260607 02:19:34.930 presentedItemDidMoveToURL was called for file "#Textastic/markdown.css" stored in Local Files although it wasn't moved, ignoring (FB7547846)
+20260607 02:19:34.935 presentedItemDidMoveToURL was called for file "#Textastic/markdown_head.html" stored in Local Files although it wasn't moved, ignoring (FB7547846)
+20260607 02:19:41.190 loaded file Encryption.log with encoding: Unicode (UTF-8) and line endings: LF (macOS, Unix)
+20260607 02:21:00.860 FTP configuration was changed -> closing all connections
+20260607 02:21:47.167 document picker was cancelled
+20260607 02:21:54.320 document picker was cancelled
+20260607 02:22:05.752 loaded file sftp_thezayns.com_F62FE291-6A6E-4F4B-81BE-320BCE5461FC.log with encoding: Unicode (UTF-8) and line endings: LF (macOS, Unix)
+20260607 02:22:12.146 ❌ Error checking if remote file "/sftp_thezayns.com_F62FE291-6A6E-4F4B-81BE-320BCE5461FC.log" exists: Could not find files for public key authentication.
+20260607 02:22:16.379 Trying to notify file provider of document access, file name: sftp_thezayns.com_F62FE291-6A6E-4F4B-81BE-320BCE5461FC.log
+20260607 02:22:16.439 Finished notifying file provider, success: 0
+20260607 02:22:24.373 Trying to notify file provider of document access, file name: sftp_thezayns.com_F62FE291-6A6E-4F4B-81BE-320BCE5461FC.log
+20260607 02:22:24.427 Finished notifying file provider, success: 0
+20260607 02:22:35.524 loaded file Textastic 2026-06-06 06:38:06Z.log with encoding: Unicode (UTF-8) and line endings: LF (macOS, Unix)
+20260607 02:26:31.402 beginning background task to keep SSH connection alive
+20260607 02:31:32.815 ====== App Launched =======
+20260607 02:31:32.883 Loading external directories
+20260607 02:31:32.883 Found 3 external directories
+20260607 02:31:32.884 Trying to resolve external directory Encryption with uuid 5C8631AA-C86F-457A-9779-F1311ACE7089
+20260607 02:31:32.889 ubiquityIdentityToken fetched in 0.005665s, token: {length = 20, bytes = 0xff9b4a7b7794b482942643dd717e5a5611257f8f}
+20260607 02:31:32.890 Successfully resolved external directory 5C8631AA-C86F-457A-9779-F1311ACE7089
+20260607 02:31:32.890 Trying to resolve external directory Documents with uuid 77BABE38-83DE-4B53-BA06-44AAE6EB5972
+20260607 02:31:32.892 Successfully resolved external directory 77BABE38-83DE-4B53-BA06-44AAE6EB5972
+20260607 02:31:32.892 Trying to resolve external directory B309A2DF-6E4E-4438-A635-D831CCB4D12B with uuid 859C7259-66C8-4813-8C2E-220FAE923202
+20260607 02:31:32.893 Successfully resolved external directory 859C7259-66C8-4813-8C2E-220FAE923202
+20260607 02:31:33.130 Requesting App Store products
+20260607 02:31:33.130 Finished loading external directories
+20260607 02:31:33.263 loaded file sourcefiles.app.html with encoding: Unicode (UTF-8) and line endings: LF (macOS, Unix)
+20260607 02:31:33.272 loaded file GettingStarted.textastic with encoding: Unicode (UTF-8) and line endings: LF (macOS, Unix)
+20260607 02:31:33.283 loaded file sftp_thezayns.com_F62FE291-6A6E-4F4B-81BE-320BCE5461FC.log with encoding: Unicode (UTF-8) and line endings: LF (macOS, Unix)
+20260607 02:31:33.292 loaded file ftpfiles.app.html with encoding: Unicode (UTF-8) and line endings: LF (macOS, Unix)
+20260607 02:31:33.298 loaded file markdown.css with encoding: Unicode (UTF-8) and line endings: LF (macOS, Unix)
+20260607 02:31:33.305 loaded file markdown_head.html with encoding: Unicode (UTF-8) and line endings: LF (macOS, Unix)
+20260607 02:31:33.661 Local authentication successful!
+20260607 02:31:33.770 Retrieved 3 product(s)
+20260607 02:31:33.771 Updating purchased products
+20260607 02:31:33.778 Eligible for free trial: 1
+20260607 02:31:33.797 Verified transactions: 1, unverified: 0
+20260607 02:31:33.797 Pro purchased, oneTime: 0 (family-shared: 0), yearly: 0 (family-shared: 0), monthly: 1 (family-shared: 0), trial: 1
+20260607 02:31:34.944 presentedItemDidMoveToURL was called for file "#Textastic/markdown_head.html" stored in Local Files although it wasn't moved, ignoring (FB7547846)
+20260607 02:31:34.945 presentedItemDidMoveToURL was called for file "GettingStarted.textastic" stored in Local Files although it wasn't moved, ignoring (FB7547846)
+20260607 02:31:34.947 presentedItemDidMoveToURL was called for file "#Textastic/markdown.css" stored in Local Files although it wasn't moved, ignoring (FB7547846)
+20260607 02:31:34.949 presentedItemDidMoveToURL was called for file "logs/sftp_thezayns.com_F62FE291-6A6E-4F4B-81BE-320BCE5461FC.log" stored in Local Files although it wasn't moved, ignoring (FB7547846)
+20260607 02:33:49.378 ====== App Launched =======
+20260607 02:33:49.426 Loading external directories
+20260607 02:33:49.427 Found 3 external directories
+20260607 02:33:49.427 Trying to resolve external directory Encryption with uuid 5C8631AA-C86F-457A-9779-F1311ACE7089
+20260607 02:33:49.429 Successfully resolved external directory 5C8631AA-C86F-457A-9779-F1311ACE7089
+20260607 02:33:49.429 Trying to resolve external directory Documents with uuid 77BABE38-83DE-4B53-BA06-44AAE6EB5972
+20260607 02:33:49.430 ubiquityIdentityToken fetched in 0.003158s, token: {length = 20, bytes = 0xff9b4a7b7794b482942643dd717e5a5611257f8f}
+20260607 02:33:49.431 Successfully resolved external directory 77BABE38-83DE-4B53-BA06-44AAE6EB5972
+20260607 02:33:49.431 Trying to resolve external directory B309A2DF-6E4E-4438-A635-D831CCB4D12B with uuid 859C7259-66C8-4813-8C2E-220FAE923202
+20260607 02:33:49.432 Successfully resolved external directory 859C7259-66C8-4813-8C2E-220FAE923202
+20260607 02:33:49.632 Requesting App Store products
+20260607 02:33:49.632 Finished loading external directories
+20260607 02:33:49.683 Retrieved 3 product(s)
+20260607 02:33:49.684 Updating purchased products
+20260607 02:33:49.722 loaded file markdown_head.html with encoding: Unicode (UTF-8) and line endings: LF (macOS, Unix)
+20260607 02:33:49.730 loaded file markdown.css with encoding: Unicode (UTF-8) and line endings: LF (macOS, Unix)
+20260607 02:33:49.742 loaded file GettingStarted.textastic with encoding: Unicode (UTF-8) and line endings: LF (macOS, Unix)
+20260607 02:33:49.746 loaded file sftp_thezayns.com_F62FE291-6A6E-4F4B-81BE-320BCE5461FC.log with encoding: Unicode (UTF-8) and line endings: LF (macOS, Unix)
+20260607 02:33:49.756 loaded file ftpfiles.app.html with encoding: Unicode (UTF-8) and line endings: LF (macOS, Unix)
+20260607 02:33:49.765 loaded file sourcefiles.app.html with encoding: Unicode (UTF-8) and line endings: LF (macOS, Unix)
+20260607 02:33:49.770 Eligible for free trial: 1
+20260607 02:33:49.775 Verified transactions: 1, unverified: 0
+20260607 02:33:49.775 Pro purchased, oneTime: 0 (family-shared: 0), yearly: 0 (family-shared: 0), monthly: 1 (family-shared: 0), trial: 1
+20260607 02:33:50.247 Local authentication successful!
+20260607 02:33:50.563 Trying to notify file provider of document access, file name: sftp_thezayns.com_F62FE291-6A6E-4F4B-81BE-320BCE5461FC.log
+20260607 02:33:50.563   Not notifying because last notification was less than 2 seconds ago.
+20260607 02:33:51.526 presentedItemDidMoveToURL was called for file "logs/sftp_thezayns.com_F62FE291-6A6E-4F4B-81BE-320BCE5461FC.log" stored in Local Files although it wasn't moved, ignoring (FB7547846)
+20260607 02:33:51.534 presentedItemDidMoveToURL was called for file "#Textastic/markdown.css" stored in Local Files although it wasn't moved, ignoring (FB7547846)
+20260607 02:33:51.534 presentedItemDidMoveToURL was called for file "GettingStarted.textastic" stored in Local Files although it wasn't moved, ignoring (FB7547846)
+20260607 02:33:51.534 presentedItemDidMoveToURL was called for file "#Textastic/markdown_head.html" stored in Local Files although it wasn't moved, ignoring (FB7547846)
+20260607 02:33:53.892 Trying to notify file provider of document access, file name: markdown_head.html
+20260607 02:33:53.918 Finished notifying file provider, success: 0
+20260607 02:33:54.536 Trying to notify file provider of document access, file name: markdown.css
+20260607 02:33:54.566 Finished notifying file provider, success: 0
+20260607 02:33:55.141 Trying to notify file provider of document access, file name: ftpfiles.app.html
+20260607 02:33:55.169 Finished notifying file provider, success: 0
+20260607 02:33:55.808 Trying to notify file provider of document access, file name: sourcefiles.app.html
+20260607 02:33:55.837 Finished notifying file provider, success: 0
+20260607 02:33:57.911 Trying to notify file provider of document access, file name: GettingStarted.textastic
+20260607 02:33:57.939 Finished notifying file provider, success: 0
+20260607 02:34:15.003 Found Wi-Fi interface: en0, ip address: 192.168.0.16
+20260607 02:36:48.006 Updating purchased products
+20260607 02:36:48.018 Eligible for free trial: 1
+20260607 02:36:48.038 Verified transactions: 1, unverified: 0
+20260607 02:36:48.038 Pro purchased, oneTime: 0 (family-shared: 0), yearly: 0 (family-shared: 0), monthly: 1 (family-shared: 0), trial: 1
+20260607 02:36:48.461 presentedItemDidMoveToURL was called for file "GettingStarted.textastic" stored in Local Files although it wasn't moved, ignoring (FB7547846)
+20260607 02:36:48.933 Local authentication successful!
+20260607 02:36:49.268 Trying to notify file provider of document access, file name: GettingStarted.textastic
+20260607 02:36:49.352 Finished notifying file provider, success: 0
+20260607 02:36:50.219 presentedItemDidMoveToURL was called for file "GettingStarted.textastic" stored in Local Files although it wasn't moved, ignoring (FB7547846)

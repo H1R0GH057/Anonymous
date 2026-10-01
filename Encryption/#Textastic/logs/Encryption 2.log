@@ -1,0 +1,277 @@
+Jun 06 08:20:33: Listing ''
+Jun 06 08:20:34: Browse list listed 6 entries in .
+Jun 06 08:20:34: Listing ''
+Jun 06 08:20:35: Browse list listed 6 entries in .
+Jun 06 08:22:08: Listing ''
+Jun 06 08:22:10: Browse list listed 6 entries in .
+Jun 06 08:22:10: Listing ''
+Jun 06 08:22:11: Browse list listed 6 entries in .
+Jun 06 08:22:12: Listing ''
+Jun 06 08:22:12: Listing '.github'
+Jun 06 08:22:13: Browse list listed 6 entries in .
+Jun 06 08:22:14: Browse list listed 1 entries in .github
+Jun 06 08:22:15: Listing '.github'
+Jun 06 08:22:15: Listing '.github/workflows'
+Jun 06 08:22:16: Browse list listed 1 entries in .github
+Jun 06 08:22:16: Browse list listed 2 entries in .github/workflows
+Jun 06 08:22:17: Listing '.github/workflows'
+Jun 06 08:22:17: Downloading .github/workflows/ci.yml
+Jun 06 08:22:17: Browse list listed 2 entries in .github/workflows
+Jun 06 08:22:19: Listing '.github/workflows'
+Jun 06 08:22:19: Listing '.github/workflows'
+Jun 06 08:22:19: Browse list listed 2 entries in .github/workflows
+Jun 06 08:22:19: Browse list listed 2 entries in .github/workflows
+Jun 06 08:22:19: Listing '.github'
+Jun 06 08:22:20: Listing '.github/workflows'
+Jun 06 08:22:20: Listing '.github'
+Jun 06 08:22:20: Browse list listed 1 entries in .github
+Jun 06 08:22:20: Listing ''
+Jun 06 08:22:21: Listing '.github'
+Jun 06 08:22:21: Listing ''
+Jun 06 08:22:21: Browse list listed 1 entries in .github
+Jun 06 08:22:21: Browse list listed 2 entries in .github/workflows
+Jun 06 08:22:21: Browse list listed 6 entries in .
+Jun 06 08:22:21: Browse list listed 1 entries in .github
+Jun 06 08:22:22: Browse list listed 6 entries in .
+Jun 06 08:22:23: Listing ''
+Jun 06 08:22:24: Browse list listed 6 entries in .
+Jun 06 08:22:30: Listing ''
+Jun 06 08:22:31: Browse list listed 6 entries in .
+Jun 06 08:22:41: Listing ''
+Jun 06 08:22:41: Browse list listed 6 entries in .
+Jun 06 09:34:24: Share extension listed 6 entries in .
+Jun 06 09:34:36 Error: https://api.github.com/repos/8vsmgwttft-del/adnl-rs/contents/Server%2F%2Egitkeep?ref=master -> 404
+ x-ratelimit-remaining: 4999
+ sunset: Fri, 10 Mar 2028 00:00:00 GMT
+ deprecation: Tue, 10 Mar 2026 00:00:00 GMT
+ x-content-type-options: nosniff
+ x-ratelimit-limit: 5000
+ Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+ Vary: Accept-Encoding, Accept, X-Requested-With
+ Server: github.com
+ access-control-expose-headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset, Warning
+ x-ratelimit-resource: core
+ x-github-request-id: E21E:279104:26FD54D:92D506B:6A237920
+ Content-Encoding: gzip
+ Link: <https://docs.github.com/en/rest/about-the-rest-api/api-versions>; rel="deprecation"; type="text/html"
+ content-security-policy: default-src 'none'
+ x-github-api-version-selected: 2022-11-28
+ Date: Sat, 06 Jun 2026 01:34:36 GMT
+ x-github-media-type: github.v3; param=object
+ x-oauth-client-id: 53c5c0e7ed629e159a31
+ referrer-policy: origin-when-cross-origin, strict-origin-when-cross-origin
+ x-ratelimit-used: 1
+ x-oauth-scopes: repo
+ x-xss-protection: 0
+ x-accepted-oauth-scopes: repo
+ x-frame-options: deny
+ x-ratelimit-reset: 1780713276
+ Content-Type: application/json; charset=utf-8
+ Access-Control-Allow-Origin: *
+----------------------------------------
+{"message":"Not Found","documentation_url":"https://docs.github.com/rest/repos/contents#get-repository-content","status":"404"}
+Jun 06 09:34:36 Error: https://api.github.com/repos/8vsmgwttft-del/adnl-rs/contents/URL?ref=master -> 404
+ x-ratelimit-remaining: 4998
+ sunset: Fri, 10 Mar 2028 00:00:00 GMT
+ deprecation: Tue, 10 Mar 2026 00:00:00 GMT
+ x-content-type-options: nosniff
+ x-ratelimit-limit: 5000
+ Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+ Vary: Accept-Encoding, Accept, X-Requested-With
+ Server: github.com
+ access-control-expose-headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset, Warning
+ x-ratelimit-resource: core
+ x-github-request-id: E21E:279104:26FD8D8:92D5D84:6A23792C
+ Content-Encoding: gzip
+ Link: <https://docs.github.com/en/rest/about-the-rest-api/api-versions>; rel="deprecation"; type="text/html"
+ content-security-policy: default-src 'none'
+ x-github-api-version-selected: 2022-11-28
+ Date: Sat, 06 Jun 2026 01:34:36 GMT
+ x-github-media-type: github.v3; param=object
+ x-oauth-client-id: 53c5c0e7ed629e159a31
+ referrer-policy: origin-when-cross-origin, strict-origin-when-cross-origin
+ x-ratelimit-used: 2
+ x-oauth-scopes: repo
+ x-xss-protection: 0
+ x-accepted-oauth-scopes: repo
+ x-frame-options: deny
+ x-ratelimit-reset: 1780713276
+ Content-Type: application/json; charset=utf-8
+ Access-Control-Allow-Origin: *
+----------------------------------------
+{"message":"Not Found","documentation_url":"https://docs.github.com/rest/repos/contents#get-repository-content","status":"404"}
+Jun 06 09:34:38: Share extension listed 8 entries in .
+Jun 06 09:34:38: Share extension listed 1 entries in Server
+Jun 06 10:26:24: Share extension listed 8 entries in .
+Jun 06 10:26:27 Error: Upload failed for 'URL': There is already a file 'URL'
+Jun 06 11:26:14: Listing ''
+Jun 06 11:26:14: Listing ''
+Jun 06 11:26:17: Browse list listed 8 entries in .
+Jun 06 11:26:17: Browse list listed 8 entries in .
+Jun 06 11:26:21: Listing ''
+Jun 06 11:26:24: Browse list listed 8 entries in .
+Jun 06 11:26:27: Listing ''
+Jun 06 11:26:27: Downloading Cargo.toml
+Jun 06 11:26:28: Browse list listed 8 entries in .
+Jun 06 11:26:29: Listing ''
+Jun 06 11:26:29: Listing ''
+Jun 06 11:26:30: Listing ''
+Jun 06 11:26:30: Listing 'Server'
+Jun 06 11:26:34: Browse list listed 8 entries in .
+Jun 06 11:26:36: Browse list listed 8 entries in .
+Jun 06 11:26:37: Browse list listed 1 entries in Server
+Jun 06 11:26:38: Browse list listed 8 entries in .
+Jun 06 11:26:39: Listing 'Server'
+Jun 06 11:26:39: Downloading Server/.gitkeep
+Jun 06 11:26:40: Browse list listed 1 entries in Server
+Jun 06 11:26:41: Listing 'Server'
+Jun 06 11:26:41: Listing 'Server'
+Jun 06 11:26:42: Browse list listed 1 entries in Server
+Jun 06 11:26:42: Listing ''
+Jun 06 11:26:42: Listing 'Server'
+Jun 06 11:26:42: Listing ''
+Jun 06 11:26:42: Browse list listed 1 entries in Server
+Jun 06 11:26:43: Browse list listed 8 entries in .
+Jun 06 11:26:43: Browse list listed 1 entries in Server
+Jun 06 11:26:43: Browse list listed 8 entries in .
+Jun 06 11:26:44: Listing ''
+Jun 06 11:26:44: Listing 'Server'
+Jun 06 11:26:45: Browse list listed 1 entries in Server
+Jun 06 11:26:45: Browse list listed 8 entries in .
+Jun 06 11:26:58 Error: https://api.github.com/repos/8vsmgwttft-del/adnl-rs/contents/Server%2Fserver%2F%2Egitkeep?ref=master -> 404
+ x-ratelimit-limit: 5000
+ Server: github.com
+ Link: <https://docs.github.com/en/rest/about-the-rest-api/api-versions>; rel="deprecation"; type="text/html"
+ Access-Control-Allow-Origin: *
+ deprecation: Tue, 10 Mar 2026 00:00:00 GMT
+ content-security-policy: default-src 'none'
+ x-oauth-client-id: 53c5c0e7ed629e159a31
+ Content-Encoding: gzip
+ Content-Type: application/json; charset=utf-8
+ x-github-request-id: C06E:1C85CA:2D96B52:2BF143D:6A239375
+ x-ratelimit-used: 3
+ access-control-expose-headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset, Warning
+ x-ratelimit-remaining: 4997
+ x-ratelimit-resource: core
+ x-accepted-oauth-scopes: repo
+ x-github-media-type: github.v3; param=object
+ Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+ x-github-api-version-selected: 2022-11-28
+ x-oauth-scopes: repo
+ x-content-type-options: nosniff
+ x-ratelimit-reset: 1780719989
+ Vary: Accept-Encoding, Accept, X-Requested-With
+ referrer-policy: origin-when-cross-origin, strict-origin-when-cross-origin
+ sunset: Fri, 10 Mar 2028 00:00:00 GMT
+ Date: Sat, 06 Jun 2026 03:26:58 GMT
+ x-frame-options: deny
+ x-xss-protection: 0
+----------------------------------------
+{"message":"Not Found","documentation_url":"https://docs.github.com/rest/repos/contents#get-repository-content","status":"404"}
+Jun 06 11:26:59: Listing 'Server'
+Jun 06 11:27:00: Browse list listed 2 entries in Server
+Jun 06 11:27:02: Listing 'Server'
+Jun 06 11:27:02: Listing 'Server/server'
+Jun 06 11:27:02: Browse list listed 2 entries in Server
+Jun 06 11:27:02: Browse list listed 1 entries in Server/server
+Jun 06 11:27:03: Listing 'Server/server'
+Jun 06 11:27:03: Downloading Server/server/.gitkeep
+Jun 06 11:27:04: Browse list listed 1 entries in Server/server
+Jun 06 11:30:49: Listing 'Server/server'
+Jun 06 11:30:49: Listing 'Server/server'
+Jun 06 11:30:50: Listing 'Server/server'
+Jun 06 11:30:50: Browse list listed 1 entries in Server/server
+Jun 06 11:30:51: Listing 'Server/server'
+Jun 06 11:30:51: Listing 'Server/server'
+Jun 06 11:30:51: Browse list listed 1 entries in Server/server
+Jun 06 11:30:51: Listing 'Server'
+Jun 06 11:30:51: Browse list listed 1 entries in Server/server
+Jun 06 11:30:51: Listing 'Server'
+Jun 06 11:30:52: Listing 'Server/server'
+Jun 06 11:30:52: Listing ''
+Jun 06 11:30:52: Listing ''
+Jun 06 11:30:52: Listing 'Server'
+Jun 06 11:30:52: Browse list listed 1 entries in Server/server
+Jun 06 11:30:52: Browse list listed 2 entries in Server
+Jun 06 11:30:53: Browse list listed 8 entries in .
+Jun 06 11:30:53: Browse list listed 1 entries in Server/server
+Jun 06 11:30:53: Browse list listed 2 entries in Server
+Jun 06 11:30:53: Browse list listed 8 entries in .
+Jun 06 11:30:53: Browse list listed 2 entries in Server
+Jun 06 11:30:55: Listing ''
+Jun 06 11:30:56: Browse list listed 8 entries in .
+Jun 06 14:10:04: Share extension listed 8 entries in .
+Jun 06 14:10:09 Error: https://api.github.com/repos/8vsmgwttft-del/adnl-rs/contents/Mcc6L54mrKuv%2Dfile%20URL?ref=master -> 404
+ Vary: Accept-Encoding, Accept, X-Requested-With
+ x-frame-options: deny
+ Access-Control-Allow-Origin: *
+ x-github-api-version-selected: 2022-11-28
+ x-ratelimit-used: 1
+ Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+ x-github-request-id: BC28:26717:37D73A6:35A8D41:6A23B9BC
+ Content-Type: application/json; charset=utf-8
+ Link: <https://docs.github.com/en/rest/about-the-rest-api/api-versions>; rel="deprecation"; type="text/html"
+ x-github-media-type: github.v3; param=object
+ x-xss-protection: 0
+ deprecation: Tue, 10 Mar 2026 00:00:00 GMT
+ x-accepted-oauth-scopes: repo
+ Date: Sat, 06 Jun 2026 06:10:08 GMT
+ x-oauth-client-id: 53c5c0e7ed629e159a31
+ x-content-type-options: nosniff
+ x-ratelimit-reset: 1780729808
+ x-ratelimit-limit: 5000
+ access-control-expose-headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset, Warning
+ content-security-policy: default-src 'none'
+ Server: github.com
+ sunset: Fri, 10 Mar 2028 00:00:00 GMT
+ Content-Encoding: gzip
+ referrer-policy: origin-when-cross-origin, strict-origin-when-cross-origin
+ x-ratelimit-resource: core
+ x-ratelimit-remaining: 4999
+ x-oauth-scopes: repo
+----------------------------------------
+{"message":"Not Found","documentation_url":"https://docs.github.com/rest/repos/contents#get-repository-content","status":"404"}
+Jun 06 14:10:23: Share extension listed 9 entries in .
+Jun 06 14:10:34 Error: https://api.github.com/repos/8vsmgwttft-del/adnl-rs/contents/Nj4RGL4jnuJ6%2Dfile%20URL?ref=master -> 404
+ Date: Sat, 06 Jun 2026 06:10:34 GMT
+ x-oauth-client-id: 53c5c0e7ed629e159a31
+ referrer-policy: origin-when-cross-origin, strict-origin-when-cross-origin
+ x-ratelimit-remaining: 4997
+ Server: github.com
+ Link: <https://docs.github.com/en/rest/about-the-rest-api/api-versions>; rel="deprecation"; type="text/html"
+ Access-Control-Allow-Origin: *
+ x-ratelimit-reset: 1780729808
+ x-ratelimit-used: 3
+ Content-Type: application/json; charset=utf-8
+ sunset: Fri, 10 Mar 2028 00:00:00 GMT
+ x-ratelimit-resource: core
+ x-github-api-version-selected: 2022-11-28
+ x-accepted-oauth-scopes: repo
+ x-github-request-id: BC28:26717:37DFA1F:35B0B9C:6A23B9CF
+ x-ratelimit-limit: 5000
+ deprecation: Tue, 10 Mar 2026 00:00:00 GMT
+ x-content-type-options: nosniff
+ x-frame-options: deny
+ access-control-expose-headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset, Warning
+ x-oauth-scopes: repo
+ x-github-media-type: github.v3; param=object
+ Content-Encoding: gzip
+ content-security-policy: default-src 'none'
+ x-xss-protection: 0
+ Vary: Accept-Encoding, Accept, X-Requested-With
+----------------------------------------
+{"message":"Not Found","documentation_url":"https://docs.github.com/rest/repos/contents#get-repository-content","status":"404"}
+Jun 06 14:23:47: Listing ''
+Jun 06 14:23:49: Browse list listed 10 entries in .
+Jun 06 14:23:53: Listing ''
+Jun 06 14:23:53: Listing 'Server'
+Jun 06 14:23:54: Browse list listed 10 entries in .
+Jun 06 14:23:54: Browse list listed 2 entries in Server
+Jun 06 14:23:56: Listing ''
+Jun 06 14:23:56: Listing 'Server'
+Jun 06 14:23:56: Listing ''
+Jun 06 14:23:56: Browse list listed 10 entries in .
+Jun 06 14:23:56: Browse list listed 2 entries in Server
+Jun 06 14:23:57: Browse list listed 10 entries in .
+Jun 06 14:23:59: Listing ''
+Jun 06 14:24:00: Browse list listed 10 entries in .

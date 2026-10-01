@@ -1,0 +1,64 @@
+20260606 08:15:13.105 Updating purchased products
+20260606 08:15:13.109 Eligible for free trial: 1
+20260606 08:15:13.115 Verified transactions: 1, unverified: 0
+20260606 08:15:13.115 Pro purchased, oneTime: 0 (family-shared: 0), yearly: 0 (family-shared: 0), monthly: 1 (family-shared: 0), trial: 1
+20260606 08:15:13.396 presentedItemDidMoveToURL was called for file "GettingStarted.textastic" stored in Local Files although it wasn't moved, ignoring (FB7547846)
+20260606 08:15:15.590 Local authentication successful!
+20260606 08:15:16.884 presentedItemDidMoveToURL was called for file "GettingStarted.textastic" stored in Local Files although it wasn't moved, ignoring (FB7547846)
+20260606 08:16:21.266 Trying to notify file provider of document access, file name: GettingStarted.textastic
+20260606 08:16:21.320 Finished notifying file provider, success: 0
+20260606 08:16:23.418 Trying to notify file provider of document access, file name: GettingStarted.textastic
+20260606 08:16:23.473 Finished notifying file provider, success: 0
+20260606 08:16:26.191 Trying to notify file provider of document access, file name: GettingStarted.textastic
+20260606 08:16:26.243 Finished notifying file provider, success: 0
+20260606 08:16:39.438 Updating purchased products
+20260606 08:16:39.450 Eligible for free trial: 1
+20260606 08:16:39.450 Verified transactions: 1, unverified: 0
+20260606 08:16:39.450 Pro purchased, oneTime: 0 (family-shared: 0), yearly: 0 (family-shared: 0), monthly: 1 (family-shared: 0), trial: 1
+20260606 08:16:39.877 presentedItemDidMoveToURL was called for file "GettingStarted.textastic" stored in Local Files although it wasn't moved, ignoring (FB7547846)
+20260606 08:16:40.344 Local authentication successful!
+20260606 08:16:41.636 presentedItemDidMoveToURL was called for file "GettingStarted.textastic" stored in Local Files although it wasn't moved, ignoring (FB7547846)
+20260606 10:11:20.616 ====== App Launched =======
+20260606 10:11:20.697 Loading external directories
+20260606 10:11:20.699 ubiquityIdentityToken fetched in 0.002200s, token: {length = 20, bytes = 0xff9b4a7b7794b482942643dd717e5a5611257f8f}
+20260606 10:11:20.895 Requesting App Store products
+20260606 10:11:20.989 loaded file GettingStarted.textastic with encoding: Unicode (UTF-8) and line endings: LF (macOS, Unix)
+20260606 10:11:20.995 presentedItemDidMoveToURL was called for file "GettingStarted.textastic" stored in Local Files although it wasn't moved, ignoring (FB7547846)
+20260606 10:11:23.478 Local authentication successful!
+20260606 10:11:24.147 Retrieved 3 product(s)
+20260606 10:11:24.147 Updating purchased products
+20260606 10:11:24.154 Eligible for free trial: 1
+20260606 10:11:24.170 Verified transactions: 1, unverified: 0
+20260606 10:11:24.170 Pro purchased, oneTime: 0 (family-shared: 0), yearly: 0 (family-shared: 0), monthly: 1 (family-shared: 0), trial: 1
+20260606 10:11:24.767 presentedItemDidMoveToURL was called for file "GettingStarted.textastic" stored in Local Files although it wasn't moved, ignoring (FB7547846)
+20260606 10:11:50.653 Found Wi-Fi interface: en0, ip address: 192.168.0.16
+20260606 10:12:16.342 Updating purchased products
+20260606 10:12:16.347 Eligible for free trial: 1
+20260606 10:12:16.355 Verified transactions: 1, unverified: 0
+20260606 10:12:16.355 Pro purchased, oneTime: 0 (family-shared: 0), yearly: 0 (family-shared: 0), monthly: 1 (family-shared: 0), trial: 1
+20260606 10:12:16.790 presentedItemDidMoveToURL was called for file "GettingStarted.textastic" stored in Local Files although it wasn't moved, ignoring (FB7547846)
+20260606 10:12:17.269 Local authentication successful!
+20260606 10:12:18.564 presentedItemDidMoveToURL was called for file "GettingStarted.textastic" stored in Local Files although it wasn't moved, ignoring (FB7547846)
+20260606 10:12:32.998 loaded file markdown.css with encoding: Unicode (UTF-8) and line endings: LF (macOS, Unix)
+20260606 10:12:51.344 Trying to notify file provider of document access, file name: GettingStarted.textastic
+20260606 10:12:51.390 Finished notifying file provider, success: 0
+20260606 10:13:24.992 Trying to notify file provider of document access, file name: GettingStarted.textastic
+20260606 10:13:25.044 Finished notifying file provider, success: 0
+20260606 10:15:25.646 Trying to notify file provider of document access, file name: markdown.css
+20260606 10:15:25.681 Finished notifying file provider, success: 0
+20260606 10:15:26.886 Trying to notify file provider of document access, file name: GettingStarted.textastic
+20260606 10:15:26.911 Finished notifying file provider, success: 0
+20260606 10:16:00.671 loaded file Textastic 2026-06-06 00:15:13Z.log with encoding: Unicode (UTF-8) and line endings: LF (macOS, Unix)
+20260606 13:07:25.028 ====== App Launched =======
+20260606 13:07:25.278 Loading external directories
+20260606 13:07:25.283 ubiquityIdentityToken fetched in 0.004938s, token: {length = 20, bytes = 0xff9b4a7b7794b482942643dd717e5a5611257f8f}
+20260606 13:07:25.463 Requesting App Store products
+20260606 13:07:25.508 loaded file GettingStarted.textastic with encoding: Unicode (UTF-8) and line endings: LF (macOS, Unix)
+20260606 13:07:25.992 Local authentication successful!
+20260606 13:07:26.718 loaded file install-zed.md.txt with encoding: Unicode (UTF-8) and line endings: LF (macOS, Unix)
+20260606 13:07:26.989 Retrieved 3 product(s)
+20260606 13:07:26.990 Updating purchased products
+20260606 13:07:26.995 Eligible for free trial: 1
+20260606 13:07:27.010 Verified transactions: 1, unverified: 0
+20260606 13:07:27.010 Pro purchased, oneTime: 0 (family-shared: 0), yearly: 0 (family-shared: 0), monthly: 1 (family-shared: 0), trial: 1
+20260606 13:07:27.265 presentedItemDidMoveToURL was called for file "GettingStarted.textastic" stored in Local Files although it wasn't moved, ignoring (FB7547846)
